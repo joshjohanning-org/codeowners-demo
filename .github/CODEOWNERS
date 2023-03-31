@@ -1,6 +1,11 @@
-@FluffyCarlton * 
+# catch all
+* @FluffyCarlton 
 
-
+# docs team reviews docs folder
 docs/*  @joshjohanning-org/docs-team
+
+# front end team reviews frontend js
 frontend/*  @joshjohanning-org/frontend-team
+
+# tests team manages tests
 tests/*  @joshjohanning-org/test-team
