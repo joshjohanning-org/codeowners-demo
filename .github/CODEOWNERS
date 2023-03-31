@@ -1,5 +1,6 @@
 # catch all
 * @FluffyCarlton 
+*.js @joshjohanning 
 
 # docs team reviews docs folder
 docs/*  @joshjohanning-org/docs-team
